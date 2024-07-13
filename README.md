@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil de Penelope Lara 😺
-## Sou desenvovedora Frontend em fase de apreedizado e uma admiradora entuziasmada por novas teclogias🚀
+## Sou desenvovedora Frontend em fase de aprendizado e uma admiradora entuziasmada por novas teclogias🚀
  <div> 
    <a href="https://github.com/penelope-lara">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=penelope-lara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
