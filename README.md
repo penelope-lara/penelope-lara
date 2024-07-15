@@ -19,8 +19,5 @@
 <div> 
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "pe.larinha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5541998483520" title="Enviar mensagem para whatsApp" target="_blank">
- <i class="fab fa-whatsapp"> </i>
-  </a>
   <a href="https://www.linkedin.com/in/penelope-lara-09a425310/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
