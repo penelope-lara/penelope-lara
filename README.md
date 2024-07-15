@@ -2,7 +2,7 @@
 ## Sou desenvovedora Frontend em fase de aprendizado e uma admiradora entuziasmada por novas teclogias🚀
  <div> 
    <a href="https://github.com/penelope-lara">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=penelope-lara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=penelope-lara&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penelope-lara&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
